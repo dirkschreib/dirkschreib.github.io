@@ -25,7 +25,7 @@ Einfach das iPhone (oder ein iPad) zücken, Spieltag anlegen, Karten geben und l
 **Die wichtigsten Funktionen auf einen Blick:**
 
 1. Spielergebnis schnell erfassen
-1. Unterstützt 4, 5 oder 6 Spieler in einer Runde\
+1. Unterstützt 4, 5 oder 6 Spieler in einer Runde<br/>
    (bei 5 Spielern setzt der Geber im Spiel aus, bei 6 Spielern setzen je 2 Spieler pro Spiel aus)
 1. Spieltagsübersicht nach Runden mit allen wichtigen Informationen zu jedem Spiel
 1. Statistik über die Anzahl der jeweils gewonnenen Spiele
@@ -45,7 +45,7 @@ Schreiben Sie [uns](mailto:support@kriddel.de) eine eMail.
 
 ## Impressum
 
-Dirk Schreib\
-Nievenheimer Straße 71\
+Dirk Schreib<br/>
+Nievenheimer Straße 71<br/>
 40221 Düsseldorf
 
