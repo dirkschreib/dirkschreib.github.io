@@ -8,12 +8,12 @@ title: Kriddel
 
 
 ## Startseite
-<div>
+<div markdown="1">
 <img align="left" alt="Icon" src="assets/kriddel3/Kriddel3_1024.png" width="240" style="margin-right: 15px" >
 
-Diese App ist die schnelle Antwort auf die Frage, die am Beginn jedes Doppelkopf-Abends steht: 
+Diese App ist die schnelle Antwort auf die Frage, die am Beginn jedes Doppelkopf-Abends steht:
 
-### Wer schreibt auf?
+#### Wer schreibt auf?
 
 <img href="https://itunes.apple.com/de/app/kriddel/id595693827" alt="Appstore Download" src="assets/kriddel3/Download_on_the_App_Store_Badge_DE_Source_135x40.svg"> 
 
