@@ -2,7 +2,9 @@
 title: Kriddel
 ---
 
-Startseite | Funktionen | Gallery |  Support |  Impressum
+[Startseite](#startseite) | [Funktionen](#funktionen) | [Gallery](#gallery) |  [Support](#support) |  [Impressum](#impressum)
+
+
 
 ## Startseite
 
@@ -35,6 +37,8 @@ Einfach das iPhone (oder ein iPad) zücken, Spieltag anlegen, Karten geben und l
 ### Die Version für das iPhone
 
 ![Spieltage](assets/kriddel3/iPhone/Simulator%20Screen%20Shot%20-%20iPhone%20X%20-%20Spieltage.png){:height="50%" width="50%"}
+
+<img src="assets/kriddel3/iPhone/Simulator%20Screen%20Shot%20-%20iPhone%20X%20-%20Spieltage.png" width="100">
 
 ## Support
 
