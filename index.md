@@ -15,7 +15,7 @@ Diese App ist die schnelle Antwort auf die Frage, die am Beginn jedes Doppelkopf
 
 <a href="https://itunes.apple.com/de/app/kriddel/id595693827">
 <img alt="Appstore Download" src="assets/kriddel3/Download_on_the_App_Store_Badge_DE_Source_135x40.svg" 
-<a/>
+</a>
 Apple, das Apple Logo, iPhone, iPad und iPod touch sind Marken der Apple Inc., die in den USA und weiteren Ländern eingetragen sind. App Store ist eine Dienstleistungsmarke der Apple Inc.
 
 ## Funktionen
