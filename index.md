@@ -1,8 +1,4 @@
----
-Author: Dirk Schreib
-Title: Still Testing
----
-# KRIDDEL (this is still a test)
+# KRIDDEL
 Die iPhone-App für den Doppelkopf-Abend
 
 --------
