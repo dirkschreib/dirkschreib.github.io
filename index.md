@@ -11,8 +11,9 @@ Startseite  Funktionen  Gallery   Support   Impressum
 Diese App ist die schnelle Antwort auf die Frage, die am Beginn jedes Doppelkopf-Abends steht:
 **"Wer schreibt auf?"**
 
-Include icon
-Include appstore-badge
+Include icon (cropped-Kriddel3_1024.png)<br/>
+Include appstore-badge (Download_on_the_App_Store_Badge_DE_Source_135x40.svg)<br/>
+Include [Link](https://itunes.apple.com/de/app/kriddel/id595693827)
 
 ## Funktionen
 
