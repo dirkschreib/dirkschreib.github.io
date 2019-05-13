@@ -36,9 +36,11 @@ Einfach das iPhone (oder ein iPad) zücken, Spieltag anlegen, Karten geben und l
 
 ### Die Version für das iPhone
 
-![Spieltage](assets/kriddel3/iPhone/Simulator%20Screen%20Shot%20-%20iPhone%20X%20-%20Spieltage.png){:height="50%" width="50%"}
-
-<img src="assets/kriddel3/iPhone/Simulator%20Screen%20Shot%20-%20iPhone%20X%20-%20Spieltage.png" width="100">
+<img alt="Spieltage" src="assets/kriddel3/iPhone/Simulator%20Screen%20Shot%20-%20iPhone%20X%20-%20Spieltage.png" width="100">
+<img alt="Spieltage bearbeiten" src="assets/kriddel3/iPhone/Simulator%20Screen%20Shot%20-%20iPhone%20X%20-%20Spieltag%20bearbeiten.png" width="100">
+<img alt="Spieltag" src="assets/kriddel3/iPhone/Simulator%20Screen%20Shot%20-%20iPhone%20X%20-%20Spieltag.png" width="100">
+<img alt="Spiel" src="assets/kriddel3/iPhone/Simulator%20Screen%20Shot%20-%20iPhone%20X%20-%20Spiel.png" width="100">
+<img alt="Spieltag quer" src="assets/kriddel3/iPhone/Simulator%20Screen%20Shot%20-%20iPhone%20X%20-%20Spieltag%20quer.png" width="400">
 
 ## Support
 
