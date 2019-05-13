@@ -2,12 +2,7 @@
 title: Kriddel
 ---
 
-# KRIDDEL
-Die iPhone-App für den Doppelkopf-Abend
-
 Startseite | Funktionen | Gallery |  Support |  Impressum
--|-|-|-|-
-
 
 ## Startseite
 
@@ -37,7 +32,9 @@ Einfach das iPhone (oder ein iPad) zücken, Spieltag anlegen, Karten geben und l
 
 ## Gallery
 
-Include images...
+### Die Version für das iPhone
+
+![Spieltage](assets/kriddel3/iPhone/Simulator\ Screen\ Shot\ -\ iPhone\ X\ -\ Spieltage.png)
 
 ## Support
 
