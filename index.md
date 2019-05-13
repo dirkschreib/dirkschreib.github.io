@@ -6,14 +6,14 @@ title: Kriddel
 
 
 
+
 ## Startseite
+<img alt="Icon" src="assets/kriddel3/Kriddel3_1024.png" width="240">
 
- Include icon (cropped-Kriddel3_1024.png)<br/>
-
- Diese App ist die schnelle Antwort auf die Frage, die am Beginn jedes Doppelkopf-Abends steht:
+Diese App ist die schnelle Antwort auf die Frage, die am Beginn jedes Doppelkopf-Abends steht:
  **"Wer schreibt auf?"**
- Include appstore-badge (Download_on_the_App_Store_Badge_DE_Source_135x40.svg)<br/>
- Include [Link](https://itunes.apple.com/de/app/kriddel/id595693827)
+<img alt="Appstore Download" src="assets/kriddel3/Download_on_the_App_Store_Badge_DE_Source_135x40.svg" href="https://itunes.apple.com/de/app/kriddel/id595693827">
+Apple, das Apple Logo, iPhone, iPad und iPod touch sind Marken der Apple Inc., die in den USA und weiteren Ländern eingetragen sind. App Store ist eine Dienstleistungsmarke der Apple Inc.
 
 ## Funktionen
 
