@@ -1,9 +1,14 @@
+---
+title: Kriddel
+layout: page
+---
+
 # KRIDDEL
 Die iPhone-App für den Doppelkopf-Abend
 
---------
-Startseite  Funktionen  Gallery   Support   Impressum
---------
+-|-|-|-|-
+Startseite | Funktionen | Gallery |  Support |  Impressum
+-|-|-|-|-
 
 
 ## Startseite
