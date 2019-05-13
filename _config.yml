@@ -1,5 +1,4 @@
 theme: jekyll-theme-tactile
-kramdown:
-  # parse markdown inside block-level HTML tag
-  parse_block_html: true
-  
+#kramdown:
+# parse markdown inside block-level HTML tag
+#  parse_block_html: true
