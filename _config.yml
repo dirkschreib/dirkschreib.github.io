@@ -1,4 +1,6 @@
 theme: jekyll-theme-tactile
+title: Kriddel
+url: www.kriddel.de
 #kramdown:
 # parse markdown inside block-level HTML tag
 #  parse_block_html: true
