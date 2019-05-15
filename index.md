@@ -1,7 +1,7 @@
 ---
 title: Kriddel
 ---
-[Funktionen](#funktionen) | [Gallery](#gallery) |  [Support](#support) |  [Impressum](#impressum)
+[Funktionen](#funktionen) | [Gallery](#gallery) |  [Support](#support)
 
 <div markdown="1">
 <img align="left" alt="Icon" src="assets/kriddel3/Kriddel3_1024.png" width="240" style="margin-right: 15px" >
@@ -43,10 +43,3 @@ Einfach das iPhone (oder ein iPad) zücken, Spieltag anlegen, Karten geben und l
 ## Support
 
 Schreiben Sie [uns](mailto:support@kriddel.de) eine eMail.
-
-## Impressum
-
-Dirk Schreib<br/>
-Nievenheimer Straße 71<br/>
-40221 Düsseldorf
-
