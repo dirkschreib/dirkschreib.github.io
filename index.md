@@ -4,7 +4,7 @@ title: Kriddel
 [Funktionen](#funktionen) | [Gallery](#gallery) |  [Support](#support)
 
 <div markdown="1">
-<img align="left" alt="Icon" src="assets/kriddel3/Kriddel3_1024.png" width="240" style="margin-right: 15px; border-radius:15px" >
+<img align="left" alt="Icon" src="assets/kriddel3/Kriddel3_1024.png" width="240" style="margin-right: 15px; border-radius:40px" >
 
 Diese App ist die schnelle Antwort auf die Frage, die am Beginn jedes Doppelkopf-Abends steht:
 
