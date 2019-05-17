@@ -1,15 +1,10 @@
 ---
 title: Kriddel
 ---
+[Funktionen](#funktionen) | [Gallery](#gallery) |  [Support](#support)
 
-[Startseite](#startseite) | [Funktionen](#funktionen) | [Gallery](#gallery) |  [Support](#support) |  [Impressum](#impressum)
-
-
-
-
-## Startseite
 <div markdown="1">
-<img align="left" alt="Icon" src="assets/kriddel3/Kriddel3_1024.png" width="240" style="margin-right: 15px" >
+<img align="left" alt="Icon" src="assets/kriddel3/Kriddel3_1024.png" width="240" style="margin-right: 15px; border-radius:40px" >
 
 Diese App ist die schnelle Antwort auf die Frage, die am Beginn jedes Doppelkopf-Abends steht:
 
@@ -41,19 +36,10 @@ Einfach das iPhone (oder ein iPad) zücken, Spieltag anlegen, Karten geben und l
 
 ### Die Version für das iPhone
 
-<img alt="Spieltage" src="assets/kriddel3/iPhone/Simulator%20Screen%20Shot%20-%20iPhone%20X%20-%20Spieltage.png" width="100">
-<img alt="Spieltage bearbeiten" src="assets/kriddel3/iPhone/Simulator%20Screen%20Shot%20-%20iPhone%20X%20-%20Spieltag%20bearbeiten.png" width="100">
-<img alt="Spieltag" src="assets/kriddel3/iPhone/Simulator%20Screen%20Shot%20-%20iPhone%20X%20-%20Spieltag.png" width="100">
-<img alt="Spiel" src="assets/kriddel3/iPhone/Simulator%20Screen%20Shot%20-%20iPhone%20X%20-%20Spiel.png" width="100">
-<img alt="Spieltag quer" src="assets/kriddel3/iPhone/Simulator%20Screen%20Shot%20-%20iPhone%20X%20-%20Spieltag%20quer.png" width="400">
+<img alt="Spieltage" src="assets/kriddel3/iPhone/Simulator%20Screen%20Shot%20-%20iPhone%20X%20-%20Spieltage.png" width="100"> <img alt="Spieltage bearbeiten" src="assets/kriddel3/iPhone/Simulator%20Screen%20Shot%20-%20iPhone%20X%20-%20Spieltag%20bearbeiten.png" width="100"> <img alt="Spieltag" src="assets/kriddel3/iPhone/Simulator%20Screen%20Shot%20-%20iPhone%20X%20-%20Spieltag.png" width="100"> <img alt="Spiel" src="assets/kriddel3/iPhone/Simulator%20Screen%20Shot%20-%20iPhone%20X%20-%20Spiel.png" width="100">
+
+<img alt="Spieltag quer" src="assets/kriddel3/iPhone/Simulator%20Screen%20Shot%20-%20iPhone%20X%20-%20Spieltag%20quer.png" width="410">
 
 ## Support
 
 Schreiben Sie [uns](mailto:support@kriddel.de) eine eMail.
-
-## Impressum
-
-Dirk Schreib<br/>
-Nievenheimer Straße 71<br/>
-40221 Düsseldorf
-
