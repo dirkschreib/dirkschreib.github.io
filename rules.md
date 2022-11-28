@@ -1,12 +1,11 @@
 # Unsere Doppelkopfregeln
 - Ohne Neunen
 - Bei 5 Königen wird nicht neu gegeben
-
 - Höchster Trumpf ist Herz 10 (Dulle); Ausnahme: 2 Karo Asse bilden ein Schwein (Sau)
 - Schwein wird angesagt bei der ersten Benutzung (nicht beim Start der Runde)
 - Bei gleichhohen Karten sticht immer die erste (auch bei Karlchen), 
-  AUßER bei Herz 10, da sticht immer die zweite
 
+  AUßER bei Herz 10, da sticht immer die zweite
 - Sonderpunkte gibt es für
 	- Doppelkopf (4 Asse/Zehner)
 	- Karlchen letzter Stich
