@@ -1,3 +1,3 @@
 # dirkschreib.github.io
 
-Dieses Repository enthält die Daten für die Webseite [`www.kriddel.de`](www.kriddel.de) für die iOS-App Kriddel.
+Dieses Repository enthält die Daten für die Webseite [`www.kriddel.de`](https://www.kriddel.de) für die iOS-App Kriddel.
