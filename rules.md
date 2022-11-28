@@ -19,7 +19,9 @@
 		- Damensolo
 		- Bubensolo
 		- Fleischlos (ohne Trumpf)
+		- Köhler (Könige, Damen, Buben sind Trumpf)
 		- stilles Solo (beide Kreuzdamen)
+		- "mißglückte" Hochzeit / Zwangssolo (siehe unten)
 
 	- Folgende Soli sind nicht möglich
 		- "Schmutziges" Farbensolo (Beispiel: Pik -> Pik + Damen + Buben + Herz 10 ist Trumpf)
@@ -30,7 +32,7 @@
 
 	- Der Solo-Spieler hat Anspiel (außer bei stillem Solo + Zwangssolo)
 	- Es gibt keine regelmäßigen Pflichtsoli
-	- Nach Solo gibt der Geber erneut
+	- Nach Solo gibt der Geber erneut (außer bei stillen Solo + Zwangssolo)
 
 - Armut: 
 	- 3 Trumpf oder weniger bilden eine Armut
@@ -71,8 +73,10 @@
 	- Kontra beim Zwangssolo nur als Antwort auf Re oder andere Ansagen.
 
 - Bockrunde/Wertung/Zählweise:
-	- Kontra + Re in einem Spiel gibt Bockrunde
+	- verlorenes Re oder Kontra ergibt eine Bockrunde
+	- Damit ergibt Kontra + Re in einem Spiel immer eine Bockrunde
 	- Nullspiel ergibt auch Bockrunde
+	- Kommt es in einer laufenden Bockrunde zu einem weiteren Bock, wird kein Doppelbock gespielt, sondern es wird eine weitere Bockrunde angehangen
 	- Soli zählen dreifach für den Solospieler (auch bei Zwangssolo)
 	- Solo in der Bockrunde wird nicht verdoppelt
 	- Sonderpunkte werden beim Solo nicht gewertet (Charlie, Fuchs, Doko...)
@@ -85,3 +89,9 @@
 	- Hinweis: Begrenzung der Punktezahl, damit nicht in einem Spiel plötzlich einer 80 Punkte 
 	  macht und alles auf den Kopf stellt. Daher kein Solo x Bock x Kontra/Re und keine
 	  Sonderpunkte im Solo
+
+- Mehr als vier Spieler 
+	- Wir schreiben grundsätzlich Plus und Minus auf
+	- die nicht-spielenden Spieler erhalten 0 Punkte
+	- Bei fünf Spielern setzt der Geber aus
+	- Bei sechs Spielern setzt zusätzlich der übernächste Spieler aus
