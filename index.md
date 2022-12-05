@@ -49,4 +49,4 @@ Einfach das iPhone (oder ein iPad) zücken, Spieltag anlegen, Karten geben und l
 
 ## Support
 
-Schreiben Sie [uns](mailto:support@kriddel.de) eine eMail.
+Schreiben Sie [uns](mailto:support@schreibauf.schreib.name) eine eMail.
