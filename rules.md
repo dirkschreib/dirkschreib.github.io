@@ -31,7 +31,7 @@
 
 	- Der Solo-Spieler hat Anspiel (außer bei stillem Solo + Zwangssolo)
 	- Es gibt keine regelmäßigen Pflichtsoli
-	- Nach Solo gibt der Geber erneut (außer bei stillen Solo + Zwangssolo)
+	- Nach Solo gibt der Geber immer erneut (Neu: auch bei stillen Solo + Zwangssolo)
 
 - Armut: 
 	- 3 Trumpf oder weniger bilden eine Armut
