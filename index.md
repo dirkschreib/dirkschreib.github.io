@@ -23,8 +23,8 @@ Einfach das iPhone (oder ein iPad oder einen Mac) zücken, Spieltag anlegen, Kar
 
 1. Spielergebnis werden sehr schnell erfasst
 1. Kriddel unterstützt 4, 5 oder 6 Spieler in einer Runde<br/>
-     - bei 5 Spielern setzt der Geber im Spiel aus
-     - bei 6 Spielern setzen je 2 Spieler pro Spiel aus
+   - bei 5 Spielern setzt der Geber im Spiel aus
+   - bei 6 Spielern setzen je 2 Spieler pro Spiel aus
 1. Spieltagsübersicht nach Runden mit allen wichtigen Informationen zu jedem Spiel
 1. Statistik über die Anzahl der jeweils gewonnenen Spiele
 1. Bockrunden werden automatisch verdoppelt
