@@ -1,5 +1,5 @@
 ---
-title: Kriddel
+title: Schreib Auf!
 ---
 [Funktionen](#funktionen) | [Screenshots](#screenshots) |  [Support](#support)
 
@@ -17,7 +17,7 @@ Apple, das Apple Logo, iPhone, iPad und iPod touch sind Marken der Apple Inc., d
 
 ## Funktionen
 
-Einfach das iPhone (oder ein iPad) zücken, Spieltag anlegen, Karten geben und los geht’s!
+Einfach das iPhone (oder ein iPad oder einen Mac) zücken, Spieltag anlegen, Karten geben und los geht’s!
 
 **Die wichtigsten Funktionen auf einen Blick:**
 
@@ -28,12 +28,10 @@ Einfach das iPhone (oder ein iPad) zücken, Spieltag anlegen, Karten geben und l
 1. Spieltagsübersicht nach Runden mit allen wichtigen Informationen zu jedem Spiel
 1. Statistik über die Anzahl der jeweils gewonnenen Spiele
 1. Bockrunden werden automatisch verdoppelt
-1. Kontakte direkt einem Spieler zuordnen
-1. Ergebnis kann als PDF verschickt werden
-1. Spieltage können exportiert und importiert werden
+1. Spieltage sind jeweils eigenständige Dateien und können kopiert bwz. versendet werden
 1. Spielergebnisse sind nachträglich korrigierbar
 
-## Screenshots
+## Screenshots (veraltet, neue sind in Arbeit)
 
 ### Die Version für das iPhone
 
