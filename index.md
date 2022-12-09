@@ -21,7 +21,7 @@ Einfach das iPhone (oder ein iPad oder einen Mac) zücken, Spieltag anlegen, Kar
 
 **Die wichtigsten Funktionen auf einen Blick:**
 
-1. Spielergebnis werden sehr schnell erfasst
+1. Spielergebnisse werden sehr schnell erfasst
 1. Kriddel unterstützt 4, 5 oder 6 Spieler in einer Runde<br/>
    - bei 5 Spielern setzt der Geber im Spiel aus
    - bei 6 Spielern setzen je 2 Spieler pro Spiel aus
