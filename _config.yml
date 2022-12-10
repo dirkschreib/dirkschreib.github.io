@@ -5,7 +5,4 @@ url: schreibauf.schreib.name
 # parse markdown inside block-level HTML tag
 #  parse_block_html: true
 highlighter: rouge
-markdown: kramdown
-kramdown:
-  input: GFM
-  
+markdown: GFM
