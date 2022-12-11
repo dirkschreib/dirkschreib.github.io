@@ -45,6 +45,10 @@ Einfach das iPhone (oder ein iPad oder einen Mac) zücken, Spieltag anlegen, Kar
 
 <img alt="Spieltag quer" src="assets/kriddel3/iPad/Simulator%20Screen%20Shot%20-%20iPad%20Pro%20-%20Spieltag%20quer.png" width="410">
 
+## Datenschutz
+
+Der Entwickler erfasst keine Daten von dieser App. This App doesn't collect any data.
+
 ## Support
 
 Schreiben Sie [uns](mailto:support@schreibauf.schreib.name) eine eMail.
