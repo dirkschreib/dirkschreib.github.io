@@ -47,7 +47,7 @@ Einfach das iPhone (oder ein iPad oder einen Mac) zücken, Spieltag anlegen, Kar
 
 ### Die Version für den Mac
 
-<img alt="Schreib Auf! Mac 1"  src="assets/SchreibAuf!/Mac/Bildschirm\302\255foto 2022-12-11 um 17.24.32.png" width="190"> <img alt="Schreib Auf! Mac 2"  src="assets/SchreibAuf!/Mac/Bildschirm\302\255foto 2022-12-11 um 17.24.57.png" width="190"> <img alt="Schreib Auf! Mac 3"  src="assets/SchreibAuf!/Mac/Bildschirm\302\255foto 2022-12-11 um 17.25.03.png" width="190"> <img alt="Schreib Auf! Mac 4"  src="assets/SchreibAuf!/Mac/Bildschirm\302\255foto 2022-12-11 um 17.25.10.png" width="190">
+<img alt="Schreib Auf! Mac 1"  src="assets/SchreibAuf!/Mac/Bildschirm-foto 2022-12-11 um 17.24.32.png" width="190"> <img alt="Schreib Auf! Mac 2"  src="assets/SchreibAuf!/Mac/Bildschirm-foto 2022-12-11 um 17.24.57.png" width="190"> <img alt="Schreib Auf! Mac 3"  src="assets/SchreibAuf!/Mac/Bildschirm-foto 2022-12-11 um 17.25.03.png" width="190"> <img alt="Schreib Auf! Mac 4"  src="assets/SchreibAuf!/Mac/Bildschirm-foto 2022-12-11 um 17.25.10.png" width="190">
 
 ## Datenschutz
 
