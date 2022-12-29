@@ -35,16 +35,9 @@ Einfach das iPhone (oder ein iPad oder einen Mac) zücken, Spieltag anlegen, Kar
 
 ### Die Version für das iPhone
 
-<img alt="Schreib Auf! iPhone 1"  src="assets/SchreibAuf!/iPhone/Simulator Screen Shot - iPhone 11 Pro Max - 2022-12-11 at 15.39.28.png" width="100">
-<img alt="Schreib Auf! iPhone 2"  src="assets/SchreibAuf!/iPhone/Simulator Screen Shot - iPhone 11 Pro Max - 2022-12-11 at 15.39.39.png" width="100">
-<img alt="Schreib Auf! iPhone 3"  src="assets/SchreibAuf!/iPhone/Simulator Screen Shot - iPhone 11 Pro Max - 2022-12-11 at 15.39.45.png" width="100">
-<img alt="Schreib Auf! iPhone 4"  src="assets/SchreibAuf!/iPhone/Simulator Screen Shot - iPhone 11 Pro Max - 2022-12-11 at 15.40.27.png" width="100">
-<img alt="Schreib Auf! iPhone 5"  src="assets/SchreibAuf!/iPhone/Simulator Screen Shot - iPhone 11 Pro Max - 2022-12-11 at 15.40.34.png" width="100">
-<img alt="Schreib Auf! iPhone 6"  src="assets/SchreibAuf!/iPhone/Simulator Screen Shot - iPhone 11 Pro Max - 2022-12-11 at 15.40.41.png" width="100">
-<img alt="Schreib Auf! iPhone 7"  src="assets/SchreibAuf!/iPhone/Simulator Screen Shot - iPhone 11 Pro Max - 2022-12-11 at 15.40.45.png" width="100">
-<img alt="Schreib Auf! iPhone 8"  src="assets/SchreibAuf!/iPhone/Simulator Screen Shot - iPhone 11 Pro Max - 2022-12-11 at 15.40.50.png" width="100">
-<img alt="Schreib Auf! iPhone 9"  src="assets/SchreibAuf!/iPhone/Simulator Screen Shot - iPhone 11 Pro Max - 2022-12-11 at 15.40.54.png" width="100">
-<img alt="Schreib Auf! iPhone 10" src="assets/SchreibAuf!/iPhone/Simulator Screen Shot - iPhone 11 Pro Max - 2022-12-11 at 15.41.24.png" width="100">
+<img alt="Schreib Auf! iPhone 1"  src="assets/SchreibAuf!/iPhone/Simulator Screen Shot - iPhone 11 Pro Max - 2022-12-11 at 15.39.28.png" width="100"> <img alt="Schreib Auf! iPhone 2"  src="assets/SchreibAuf!/iPhone/Simulator Screen Shot - iPhone 11 Pro Max - 2022-12-11 at 15.39.39.png" width="100"> <img alt="Schreib Auf! iPhone 3"  src="assets/SchreibAuf!/iPhone/Simulator Screen Shot - iPhone 11 Pro Max - 2022-12-11 at 15.39.45.png" width="100"> <img alt="Schreib Auf! iPhone 4"  src="assets/SchreibAuf!/iPhone/Simulator Screen Shot - iPhone 11 Pro Max - 2022-12-11 at 15.40.27.png" width="100"> <img alt="Schreib Auf! iPhone 5"  src="assets/SchreibAuf!/iPhone/Simulator Screen Shot - iPhone 11 Pro Max - 2022-12-11 at 15.40.34.png" width="100">
+
+<img alt="Schreib Auf! iPhone 6"  src="assets/SchreibAuf!/iPhone/Simulator Screen Shot - iPhone 11 Pro Max - 2022-12-11 at 15.40.41.png" width="400"> <img alt="Schreib Auf! iPhone 7"  src="assets/SchreibAuf!/iPhone/Simulator Screen Shot - iPhone 11 Pro Max - 2022-12-11 at 15.40.45.png" width="400"> <img alt="Schreib Auf! iPhone 8"  src="assets/SchreibAuf!/iPhone/Simulator Screen Shot - iPhone 11 Pro Max - 2022-12-11 at 15.40.50.png" width="400"> <img alt="Schreib Auf! iPhone 9"  src="assets/SchreibAuf!/iPhone/Simulator Screen Shot - iPhone 11 Pro Max - 2022-12-11 at 15.40.54.png" width="400"> <img alt="Schreib Auf! iPhone 10" src="assets/SchreibAuf!/iPhone/Simulator Screen Shot - iPhone 11 Pro Max - 2022-12-11 at 15.41.24.png" width="400">
 
 ### Die Version für das iPad
 
