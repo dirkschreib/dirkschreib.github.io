@@ -31,7 +31,7 @@ Einfach das iPhone (oder ein iPad oder einen Mac) zücken, Spieltag anlegen, Kar
 1. Spieltage sind jeweils eigenständige Dateien und können kopiert bwz. versendet werden
 1. Spielergebnisse sind nachträglich korrigierbar
 
-## Screenshots (veraltet, neue sind in Arbeit)
+## Screenshots
 
 ### Die Version für das iPhone
 
@@ -46,6 +46,8 @@ Einfach das iPhone (oder ein iPad oder einen Mac) zücken, Spieltag anlegen, Kar
 <img alt="Schreib Auf! iPad 6"  src="assets/SchreibAuf!/iPad/Simulator Screen Shot - iPad Pro (12.9-inch) (6th generation) - 2022-12-11 at 15.54.48.png" width="400"> <img alt="Schreib Auf! iPad 7"  src="assets/SchreibAuf!/iPad/Simulator Screen Shot - iPad Pro (12.9-inch) (6th generation) - 2022-12-11 at 15.54.51.png" width="400"> <img alt="Schreib Auf! iPad 8"  src="assets/SchreibAuf!/iPad/Simulator Screen Shot - iPad Pro (12.9-inch) (6th generation) - 2022-12-11 at 15.55.05.png" width="400"> <img alt="Schreib Auf! iPad 9"  src="assets/SchreibAuf!/iPad/Simulator Screen Shot - iPad Pro (12.9-inch) (6th generation) - 2022-12-11 at 15.55.13.png" width="400"> <img alt="Schreib Auf! iPad 10" src="assets/SchreibAuf!/iPad/Simulator Screen Shot - iPad Pro (12.9-inch) (6th generation) - 2022-12-11 at 15.55.16.png" width="400">
 
 ### Die Version für den Mac
+
+<img alt="Schreib Auf! Mac 1"  src="assets/SchreibAuf!/Mac/Bildschirm\302\255foto 2022-12-11 um 17.24.32.png" width="190"> <img alt="Schreib Auf! Mac 2"  src="assets/SchreibAuf!/Mac/Bildschirm\302\255foto 2022-12-11 um 17.24.57.png" width="190"> <img alt="Schreib Auf! Mac 3"  src="assets/SchreibAuf!/Mac/Bildschirm\302\255foto 2022-12-11 um 17.25.03.png" width="190"> <img alt="Schreib Auf! Mac 4"  src="assets/SchreibAuf!/Mac/Bildschirm\302\255foto 2022-12-11 um 17.25.10.png" width="190">
 
 ## Datenschutz
 
