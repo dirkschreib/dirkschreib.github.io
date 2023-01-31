@@ -77,14 +77,12 @@
 	- Nullspiel ergibt auch Bockrunde
 	- Kommt es in einer laufenden Bockrunde zu einem weiteren Bock, wird kein Doppelbock gespielt, sondern es wird eine weitere Bockrunde angehangen
 	- Soli zählen dreifach für den Solospieler (auch bei Zwangssolo)
-	- Solo in der Bockrunde wird nicht verdoppelt
+	- Solo in der Bockrunde wird nicht verdoppelt, die restlichen Bock-Spiele verschieben sich
 	- Sonderpunkte werden beim Solo nicht gewertet (Charlie, Fuchs, Doko...)
 	- Sonderpunkte werden nicht durch Kontra/Re verdoppelt, wohl aber durch Bock
-
 	- Rechenbeispiel: Keine 12, keine 9, gegen die Alten, Kontra ergibt 6 Punkte. 
 	  Dazu ein Fuchs ergibt 7. Bockrunde 14
 	- Rechenbeispiel: Keine 12, keine 9, Re ergibt 4 Punkte, Gegner hat Charlie, ergibt 3, Bock 6
-
 	- Hinweis: Begrenzung der Punktezahl, damit nicht in einem Spiel plötzlich einer 80 Punkte 
 	  macht und alles auf den Kopf stellt. Daher kein Solo x Bock x Kontra/Re und keine
 	  Sonderpunkte im Solo
@@ -94,3 +92,5 @@
 	- die nicht-spielenden Spieler erhalten 0 Punkte
 	- Bei fünf Spielern setzt der Geber aus
 	- Bei sechs Spielern setzt zusätzlich der übernächste Spieler aus
+	  Begründung: Bei benachbarten Spieler, würde man zweimal direkt hintereinander aussetzen müssen. 
+	  Beim gegenüberliegenden Spieler würden 3 Konstellation jeweils 2x pro Runde vorkommen
