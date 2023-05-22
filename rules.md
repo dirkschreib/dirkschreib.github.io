@@ -37,10 +37,11 @@
 	- 3 Trumpf oder weniger bilden eine Armut
 	- Es werden immer 3 Karten weiter gegeben, auch bei nur 2 Trumpf
 	- 3 Trumpf + Fuchs bilden ebenfalls eine Armut. Dann werden 4 Karten weiter gegeben
-	- 3 Trumpf + Fuchs bilden auch dann eine Armut, wenn beide Füchse dabei sind
+	- 3 Trumpf + Fuchs bilden keine Armut, wenn beide Füchse dabei sind (geändert am 22.5.23)
 	- 3 Trumpf + 2 Füchse sind KEINE Armut
 	- Nimmt keiner die Armut an, wird neu gegeben
 	- Trumpfrückgabe wird angesagt (nicht Anzahl, nur ob)
+	- Hinweis: Bei nur einem oder keinem Trumpf wird neu gegeben
 
 - Hochzeit:
 	- 2 Kreuz-Damen auf einer Hand bilden eine Hochzeit. 
