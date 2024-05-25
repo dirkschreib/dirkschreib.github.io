@@ -67,7 +67,7 @@
 	- Ausnahme: Auf eine Ansage darf sofort nach der Ansage geantwortet werden (mit Kontra/Re)
 	- Man darf "keine 90" ansagen, ohne zuvor Kontra/Re zu sagen
 	- Es muss aber "runtergezählt" werden. Man darf nicht plötzlich im 5. Stich "keine 30" sagen
-	- Bei einer Hochzeit wird erst ab dem Klärungsstich gerechnet
+	- Bei einer Hochzeit wird ab dem ersten Stich gezählt (geändert am 14.5.24 von: erst ab dem Klärungsstich gerechnet)
 	- Der Solospieler darf nur Re sagen, wenn Kontra (oder eine andere gegnerische Ansage) 
 	  gegeben wurde. Er darf aber keine 90 ansagen. 
 	- Kontra beim Zwangssolo nur als Antwort auf Re oder andere Ansagen.
