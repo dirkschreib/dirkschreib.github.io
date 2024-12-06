@@ -39,10 +39,17 @@
 	- 3 Trumpf + Fuchs bilden ebenfalls eine Armut. Dann werden 4 Karten weiter gegeben
 	- 3 Trumpf + Fuchs bilden keine Armut, wenn beide Füchse dabei sind (geändert am 22.5.23)
 	- 3 Trumpf + 2 Füchse sind KEINE Armut
-	- Nimmt keiner die Armut an, wird neu gegeben
+	- Nimmt keiner die Armut an, wird ein Ramsch gespielt (siehe unten)
 	- Trumpfrückgabe wird angesagt (nicht Anzahl, nur ob)
 	- Hinweis: Bei nur einem oder keinem Trumpf wird neu gegeben
 
+- Ramsch
+    - Bei Ramsch kommt es darauf an, weniger Punkte als die Gegner zu bekommen
+    - Es spielen die beiden Kreuz-Damen zusammen, die ggf. vorhanden stille Hochzeit spielt alleine
+    - Sonderpunkte (Doppelkopf, Karlchen, Fuchs) zählen nicht
+    - "Gegen die Alten" wird ebenso nicht gezählt
+    - Der Geber gibt nicht erneut 
+    
 - Hochzeit:
 	- 2 Kreuz-Damen auf einer Hand bilden eine Hochzeit. 
 	- Partnerwahl: der Damenbesitzer bestimmt eine der folgenden Bedingungen
