@@ -24,7 +24,7 @@
   - Fleischlos (ohne Trumpf)
   - Köhler (Könige + Damen + Buben sind Trumpf, K > D > B)
   - stilles Solo (beide Kreuzdamen ohne Ansage)
-  - "gescheiterte" Hochzeit / Zwangssolo (siehe unten)
+  - "gescheiterte" Hochzeit
 
 - Folgende Soli sind nicht möglich:
   - "Schmutziges" Farbensolo (Beispiel: Pik -> Pik + Damen + Buben + Herz 10 ist Trumpf)
@@ -34,8 +34,8 @@
   - 10er-Solo
 
 - Es gibt keine regelmäßigen Pflichtsoli
-- Der Solo-Spieler hat Anspiel (außer bei stillem Solo + Zwangssolo)
-- Nach Solo gibt der Geber erneut außer bei stillen Solo + Zwangssolo (Änderung wieder rückgängig gemacht am 6.12.2024)
+- Der Solo-Spieler hat Anspiel (außer bei stillem Solo + "gescheiterter" Hochzeit)
+- Nach Solo gibt der Geber erneut außer bei stillen Solo + "gescheiterter" Hochzeit (Änderung wieder rückgängig gemacht am 6.12.2024)
 
 ## Armut
 
@@ -63,7 +63,7 @@
   - Erster Fehlstich (Fehl wurde aufgespielt, egal ob mit Trumpf gestochen)
   - Erster Trumpfstich (Trumpf wurde aufgespielt)
 - Der Damenbesitzer spielt mit demjenigen zusammen, der die Bedingung erfüllt
-- Wird die Bedingung in den ersten drei Stichen von keinem erfüllt, spielt der Damenbesitzer alleine (Zwangssolo)
+- Wird die Bedingung in den ersten drei Stichen von keinem erfüllt, spielt der Damenbesitzer alleine ("gescheiterte" Hochzeit)
 - Erfüllt der Damenbesitzer die Bedingung selbst, spielt er alleine
 
 ## Rangfolge 
@@ -83,14 +83,14 @@
 - Man darf nicht plötzlich im 5. Stich "keine 30" sagen. Es muss "runtergezählt" werden, oder die Ansage muss anstelle der höheren Ansage vorzeitig getroffen werden, z.B. sofort "keine 60" statt "keine 90" 
 - Bei einer Hochzeit gelten dieselben Grenzen (geändert am 14.5.24 von: erst ab dem Klärungsstich gerechnet)
 - Ein Solospieler darf nur Re sagen, wenn Kontra (oder eine andere gegnerische Ansage) gegeben wurde. Er darf aber "keine 90" usw. ansagen. 
-- Beim Zwangssolo ist Kontra nur als Antwort auf Re oder andere Ansagen zulässig
+- Bei einer "gescheiterten" Hochzeit ist Kontra nur als Antwort auf Re oder andere Ansagen zulässig
 
 ## Bockrunde/Wertung/Zählweise
 
 - Verlorenes Re oder Kontra ergibt eine Bockrunde; damit ergibt Kontra + Re in einem Spiel immer eine Bockrunde
 - Nullspiel ergibt eine Bockrunde
 - Kommt es in einer laufenden Bockrunde zu einem weiteren Bock, wird kein Doppelbock gespielt, sondern es wird eine weitere Bockrunde angehängt
-- Soli zählen dreifach für den Solospieler (auch bei Zwangssolo und Ramsch)
+- Soli zählen dreifach für den Solospieler (auch bei "gescheiterter" Hochzeit und Ramsch)
 - Solo in der Bockrunde wird nicht verdoppelt, die restlichen Bock-Spiele verschieben sich
 - Sonderpunkte (Karlchen, Fuchs, Doppelkopf) werden beim Solo nicht gewertet
 - Sonderpunkte werden nicht durch Kontra/Re verdoppelt, wohl aber durch Bock
